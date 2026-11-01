@@ -1,0 +1,177 @@
+[
+    {
+        "name": "fahim",
+        "age": 21,
+        "gender": "male",
+        "account_number": "8686992225",
+        "pin": 1111,
+        "balance": 191585.0,
+        "transaction": [],
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 454.0,
+                "balance": 191585.0
+            }
+        ]
+    },
+    {
+        "name": "tuhu",
+        "age": 23,
+        "gender": "male",
+        "account_number": "1878848924",
+        "pin": 2424,
+        "balance": 157413.0,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 5335.0,
+                "balance": 157413.0
+            }
+        ]
+    },
+    {
+        "name": "rahim",
+        "age": 25,
+        "gender": "male",
+        "account_number": "4527816390",
+        "pin": 5732,
+        "balance": 78500.0
+    },
+    {
+        "name": "karim",
+        "age": 29,
+        "gender": "male",
+        "account_number": "6193048275",
+        "pin": 1846,
+        "balance": 124750.0
+    },
+    {
+        "name": "sadia",
+        "age": 22,
+        "gender": "female",
+        "account_number": "7351928460",
+        "pin": 6291,
+        "balance": 45600.0
+    },
+    {
+        "name": "nusrat",
+        "age": 27,
+        "gender": "female",
+        "account_number": "2846173950",
+        "pin": 3158,
+        "balance": 92500.0
+    },
+    {
+        "name": "tanvir",
+        "age": 24,
+        "gender": "male",
+        "account_number": "9063147285",
+        "pin": 7462,
+        "balance": 187300.0
+    },
+    {
+        "name": "sabbir",
+        "age": 31,
+        "gender": "male",
+        "account_number": "5418296370",
+        "pin": 4927,
+        "balance": 256750.0
+    },
+    {
+        "name": "mim",
+        "age": 20,
+        "gender": "female",
+        "account_number": "6739152840",
+        "pin": 8315,
+        "balance": 12500.0
+    },
+    {
+        "name": "jannat",
+        "age": 26,
+        "gender": "female",
+        "account_number": "3185729460",
+        "pin": 2674,
+        "balance": 67300.0
+    },
+    {
+        "name": "hasan",
+        "age": 28,
+        "gender": "male",
+        "account_number": "8294617350",
+        "pin": 9541,
+        "balance": 143200.0
+    },
+    {
+        "name": "emon",
+        "age": 23,
+        "gender": "male",
+        "account_number": "4928173650",
+        "pin": 3862,
+        "balance": 89200.0
+    },
+    {
+        "name": "sumaiya",
+        "age": 24,
+        "gender": "female",
+        "account_number": "7614398250",
+        "pin": 6183,
+        "balance": 52100.0
+    },
+    {
+        "name": "sakib",
+        "age": 30,
+        "gender": "male",
+        "account_number": "1357924680",
+        "pin": 7254,
+        "balance": 315600.0
+    },
+    {
+        "name": "maisha",
+        "age": 21,
+        "gender": "female",
+        "account_number": "5830261749",
+        "pin": 4391,
+        "balance": 34800.0
+    },
+    {
+        "name": "arif",
+        "age": 35,
+        "gender": "male",
+        "account_number": "9472615830",
+        "pin": 5728,
+        "balance": 427500.0
+    },
+    {
+        "name": "rima",
+        "age": 29,
+        "gender": "female",
+        "account_number": "3265187940",
+        "pin": 8146,
+        "balance": 116750.0
+    },
+    {
+        "name": "nayeem",
+        "age": 22,
+        "gender": "male",
+        "account_number": "7042836195",
+        "pin": 3519,
+        "balance": 27300.0
+    },
+    {
+        "name": "sadia",
+        "age": 32,
+        "gender": "female",
+        "account_number": "6184059273",
+        "pin": 6925,
+        "balance": 198400.0
+    },
+    {
+        "name": "shuvo",
+        "age": 27,
+        "gender": "male",
+        "account_number": "8527419630",
+        "pin": 2478,
+        "balance": 156900.0
+    }
+]
