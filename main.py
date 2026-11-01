@@ -279,9 +279,7 @@ print("7. Check account balance")
 print("8. Transfer money")
 print("9. Transaction history")
 print("10. Change PIN")
-print("11. Search account")
-print("12. Account statement")
-print("13. Exit")
+print("11. Exit")
 
 
 check = int(input("Enter your choice (1-13): "))
@@ -317,11 +315,5 @@ if check == 10:
     user.change_pin()
 
 if check == 11:
-    user.search_account()
-
-if check == 12:
-    user.account_statement()
-
-if check == 13:
     print("Thank you for using the Bank Management System.")
     exit()
